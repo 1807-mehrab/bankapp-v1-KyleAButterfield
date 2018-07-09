@@ -34,7 +34,7 @@ public class Account {
 	public Account() {}
 	
 	public Account(String accountNumber, double balance) {
-		this.balance = balance;
+		this.balance = balance; 
 	}
 	
 	

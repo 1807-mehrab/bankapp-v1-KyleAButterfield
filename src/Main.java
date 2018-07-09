@@ -79,7 +79,6 @@ public class Main extends ProgramRunner {
 			if(userInput.equals("Y")) {
 				System.out.println("Thanks for visiting Bank of Kyle.");
 				isDone = true;
-				System.exit(1);
 			}
 		}//end of outer most while
 		
